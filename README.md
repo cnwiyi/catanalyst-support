@@ -1,6 +1,6 @@
-# CatAnalyst Support
+# Catanalyst Support
 
-**CatAnalyst** is a Catan companion app for iOS featuring a board generator, score tracker, dice tracker and quick rules guide.
+**Catanalyst** is a Catan companion app for iOS featuring a board generator, score tracker, dice tracker and quick rules guide.
 
 ## Contact & Support
 For support, feedback or bug reports please email:
