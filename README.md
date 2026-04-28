@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="YmQ3DEHQGE4WSdLSfxF-dNdj97ImO1vZ1HTLbYQtFrU" />
+
 # Catanalyst Support
 
 **Catanalyst** is a Catan companion app for iOS featuring a board generator, score tracker, dice tracker and quick rules guide.
@@ -16,3 +18,5 @@ support@esgilsoftware.io
 ## Developer
 Esgil Software
 © 2026 Esgil Software. All rights reserved.
+
+---
