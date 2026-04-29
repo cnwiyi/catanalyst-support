@@ -13,8 +13,9 @@ support@esgilsoftware.io
 - Dice Tracker with manual input and statistics
 - Quick Rules & Guide reference
 
+## Download
+[Download on the App Store](https://apps.apple.com/ca/app/catanalyst/id6761938125)
+
 ## Developer
 Esgil Software
 © 2026 Esgil Software. All rights reserved.
-
----
